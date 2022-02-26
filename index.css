@@ -12,3 +12,9 @@
     padding-top: 80px;
     margin-top: 8%;
 }
+.insurance_website{
+    display: flex;  
+}
+.quiz_board{
+    display: flex;
+}
