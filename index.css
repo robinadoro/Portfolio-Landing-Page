@@ -1,3 +1,14 @@
-.robin img{
-    
+.burger_place{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 7%;
+
+}
+.burger_place img{
+    margin-left: 200px;
+}
+.burger_text{
+    padding-top: 80px;
+    margin-top: 8%;
 }
