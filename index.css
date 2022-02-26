@@ -2,7 +2,7 @@
     display: flex;
     text-align: center;
     justify-content: center;
-    margin-top: 7%;
+    padding: 3%;
 
 }
 .burger_place img{
@@ -14,7 +14,26 @@
 }
 .insurance_website{
     display: flex;  
+    padding: 3%;
+}
+.insurance_text{
+    padding-top: 80px;
+    margin-top: 8%;
+    margin-left: 200px;
+}
+.insurance_img{
+    margin-left: 0px;
 }
 .quiz_board{
     display: flex;
+    padding: 3%;
+}
+.quiz_text{
+    padding-top: 80px;
+    margin-top: 8%;
+    
+}
+.quiz_board img{
+    margin-left: 200px;  
+    margin-right: 0px;
 }
