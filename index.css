@@ -66,10 +66,17 @@ nav{
     padding-bottom: 0%;
     padding: 1%;
 }
+/* .about a :hover{
+    background-color: #FAFAFA;
+} */
 #butt{
     background-color: #808080;
     border: none;
 
+}
+#butt:hover{
+    background-color: #FAFAFA;
+    color: black;
 }
 .projects{
     padding: 0%;
