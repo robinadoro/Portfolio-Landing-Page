@@ -142,15 +142,18 @@ nav{
 }
 .contact{
     text-align: center;
-    padding: 10%;
+    padding: 5%;
     box-shadow: black;
     border: 1px solid black;
+    border: none;
 }
 .contact p{
     padding-bottom: 1%;
 }
 .contact h3 {
     padding-bottom: 2%;
+    font-size: xx-large;
+    font-weight: bold;
 }
 .footer{
     text-align: center;
