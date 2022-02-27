@@ -64,7 +64,18 @@ nav{
     color: white;
     margin-left: 30%;
 }
+.projects{
+    padding: 0%;
+    background-color: #FAFAFA;
+}
+.projects h1{
+    text-align: center;
+    padding: 5%;
+    border: 2px solid black;
+    border: none;
+    background-color: #808080;
 
+}
 
 
 
@@ -72,11 +83,15 @@ nav{
     display: flex;
     text-align: center;
     justify-content: center;
-    padding: 3%;
+    padding-top:  0%;
+    border: 1px solid black;
+    border: none;
 
 }
 .burger_place img{
     margin-left: 200px;
+    margin-right: 0%;
+    padding-top: 5%;
 }
 .burger_text{
     padding-top: 80px;
