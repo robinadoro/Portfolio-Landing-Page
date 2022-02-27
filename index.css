@@ -47,8 +47,8 @@ nav{
     padding-top: 7%;
     border: 2px solid black;
     border: none;
-    background-color: #D3D3D3;
-    height: 500px;
+    background-color: #DCDCDC;
+    height: 550px;
 }
 .about h2{
     padding: 0%;
@@ -62,7 +62,14 @@ nav{
 .about a{
     background-color: black;
     color: white;
-    margin-left: 30%;
+    margin-left: 40%;
+    padding-bottom: 0%;
+    padding: 1%;
+}
+#butt{
+    background-color: #808080;
+    border: none;
+
 }
 .projects{
     padding: 0%;
