@@ -143,6 +143,14 @@ nav{
 .contact{
     text-align: center;
     padding: 10%;
+    box-shadow: black;
+    border: 1px solid black;
+}
+.contact p{
+    padding-bottom: 1%;
+}
+.contact h3 {
+    padding-bottom: 2%;
 }
 .footer{
     text-align: center;
