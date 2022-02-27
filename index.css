@@ -74,11 +74,13 @@ nav{
     border: 2px solid black;
     border: none;
     background-color: white;
-
 }
-
-
-
+.projects a{
+    color: grey;
+    border: 1px solid black;
+    border: none;
+    background-color: white;
+}
 .burger_place{
     display: flex;
     padding-top:  0%;
