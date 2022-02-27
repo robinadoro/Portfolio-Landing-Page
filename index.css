@@ -46,15 +46,25 @@ nav{
     margin-right: 0%;
     padding-top: 7%;
     border: 2px solid black;
+    border: none;
     background-color: #D3D3D3;
+    height: 500px;
 }
 .about h2{
-    padding: 2%;
+    padding: 0%;
     text-align: center;
+    font-size: xx-large;
+    padding-bottom: 5%;
 }
 .about p {
     margin-left: 15%;
 }
+.about a{
+    background-color: black;
+    color: white;
+    margin-left: 30%;
+}
+
 
 
 
