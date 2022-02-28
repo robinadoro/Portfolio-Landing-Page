@@ -2,42 +2,63 @@ nav{
     margin-left: 40%;
     margin-top: -5%;
     font-size: x-large;
-    padding: 80px;
+    padding: 80px;   
 }
 .nav-item{
     margin-left: 10px;
 }
-.name_text{
+.top_part{
+    background-color: #00BFFF;
+    border: 1px solid black;
+    border: none;
+    padding: 3%;
+    color: white;
+}
+.container-fluid a{
+    color: white;
+}
+/* .name{
+   background-image: url("./imgs/robin.jpg");
+   background-repeat: no-repeat;
+   height: 500px;
+   width: 100%;
+   padding-top: 30%;
+   background-size: cover;
+   opacity: 0.5;
+ 
+} */
+.namtext{
     border: 1px solid black;
     border-radius: 20px;
     border: none;
     padding: 2%;
-    padding-left: 10%;
+    padding-left: 0%;
     font-size: large;
-    margin-top: 10%;
     margin-bottom: -30%;
-    margin-right: 60%;
+    margin-top: 10%;
+    margin-right: 62%;
     margin-left: 0%;
+   
+    
 }
-.name_text h3{
+.namtext h3{
     font-weight: bolder;
     font-size: xx-large;
     font-family: Averta, sans-serif;
+    
 }
 
 .robin{
-    padding: 2%;
-    padding-top: 6%;
-    margin-left: 40%;
+    padding-top: 0%;
+    margin-left: 29%;
 
 }
 .robin img {
     border-radius: 20px;
-    
+    margin-top: 3%;    
     margin-right: 0%;
 }
 .top{
-    background-color:#FAFAFA;
     border: 2px solid green;
     border: none;
 }
@@ -47,21 +68,20 @@ nav{
     padding-top: 7%;
     border: 2px solid black;
     border: none;
-    background-color: #DCDCDC;
     height: 550px;
 }
 .about h2{
-    padding: 0%;
+    padding: 3%;
     text-align: center;
     font-size: xx-large;
     padding-bottom: 5%;
+    background-color: #00BFFF;
+
 }
 .about p {
     margin-left: 15%;
 }
 .about a{
-    background-color: black;
-    color: white;
     margin-left: 40%;
     padding-bottom: 0%;
     padding: 1%;
@@ -84,10 +104,10 @@ nav{
 }
 .projects h1{
     text-align: center;
-    padding: 5%;
+    padding: 3%;
     border: 2px solid black;
     border: none;
-    background-color: white;
+    background-color: #00BFFF;
 }
 .projects a{
     color: grey;
@@ -172,6 +192,4 @@ nav{
 .footer{
     text-align: center;
     padding: 3%;
-    background-color: #808080;
-    color: #FAFAFA;
 }
